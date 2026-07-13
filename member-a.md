@@ -3,3 +3,4 @@ Ten: Vo Nguyen Hoang Quan
 MSSV: B2405051
 Vai tro trong nhom: Team Leader
 ## doc sach, nghe nhac
+## email: quanb2405051@student.ctu.edu.vn
